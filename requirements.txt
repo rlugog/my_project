@@ -72,6 +72,6 @@ urllib3==2.2.3
 watchdog==4.0.2
 wcwidth==0.2.13
 numpy>=1.18,<1.22
-package_name>=1.0,<=2.0
 
-wcwidth==0.2.13
+
+
