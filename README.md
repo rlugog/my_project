@@ -1,4 +1,3 @@
-# my_project
 MY Test Project
 # Análisis de Vehículos Usados en Estados Unidos
 
@@ -37,5 +36,4 @@ port = 10000
 [browser]
 serverAddress = "0.0.0.0"
 serverPort = 10000
-
 
