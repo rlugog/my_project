@@ -1,9 +1,11 @@
 [server]
 headless = true
-port = $PORT
+port = 8501
 enableCORS = false
 enableXsrfProtection = false
 
 [browser]
-serverAddress = "0.0.0.0"
+serverAddress = "localhost"
+serverPort = 8501
+
 
